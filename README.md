@@ -10,10 +10,12 @@ Keras
 matplotlib
 NumPy
 You can install these dependencies using the following pip commands:
+
   pip install tensorflow
   pip install keras
   pip install matplotlib
   pip install numpy
+  
 
 ## Dataset
 The dataset used for this project consists of images of Pikachu and Raichu. The images were obtained from various sources and were manually curated to ensure high quality. The dataset contains 800 images of Pikachu and 800 images of Raichu, which are split into training and testing sets.
