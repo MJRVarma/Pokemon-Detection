@@ -34,5 +34,7 @@ The trained model was evaluated on the testing set, and achieved an accuracy of 
 ## Results
 The trained model achieved a high accuracy on the testing set, and can classify input images of Pikachu and Raichu with high accuracy. The project can be extended to include more Pokemon classes and can be deployed as a web application for real-time image-based Pokemon recognition.
 
+And in the new Pokemon Project _ API new file , based on the prediction of Pokemon the stats of pokemon will be fetched from PokeAPI.
+
 ### Credits
 This project was created by Jagannadha Rohit Varma Mandhapati. The dataset (images of pokemons) used in this project was obtained from various sources and was curated manually.
