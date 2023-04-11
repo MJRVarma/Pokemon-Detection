@@ -24,3 +24,8 @@ The model was trained using the training set with various data preprocessing tec
 ## Testing
 The trained model was evaluated on the testing set, and achieved an accuracy of 90% on the testing set. The model was also tested on a single input image of a Pokemon, which was classified as either Pikachu or Raichu with high accuracy.
 
+## Results
+The trained model achieved a high accuracy on the testing set, and can classify input images of Pikachu and Raichu with high accuracy. The project can be extended to include more Pokemon classes and can be deployed as a web application for real-time image-based Pokemon recognition.
+
+### Credits
+This project was created by Jagannadha Rohit Varma Mandhapati. The dataset (images of pokemons) used in this project was obtained from various sources and was curated manually.
