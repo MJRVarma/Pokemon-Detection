@@ -9,12 +9,17 @@ TensorFlow
 Keras
 matplotlib
 NumPy
+
 You can install these dependencies using the following pip commands:
 
-  pip install tensorflow
-  pip install keras
-  pip install matplotlib
-  pip install numpy
+    pip install tensorflow
+
+    pip install keras
+
+    pip install matplotlib
+
+    pip install numpy
+
   
 
 ## Dataset
